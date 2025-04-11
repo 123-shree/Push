@@ -1,0 +1,5 @@
+//if git repo is empty
+git init
+git  add .
+git commit -m "comment"
+git push -u origin main
